@@ -5,11 +5,12 @@ tap 'homebrew/bundle'
 
 # Binaries
 brew 'awscli'
+brew 'fzf'
 brew 'gh'
 brew 'httpie'
 brew 'hub'
 brew 'mackup'
-brew 'fzf'
+brew 'postgresql'
 
 # Development
 brew 'php'
@@ -36,6 +37,7 @@ cask 'java'
 cask 'karabiner-elements'
 cask 'notion'
 cask 'phpstorm'
+cask 'sequel-pro'
 cask 'skype'
 cask 'slack'
 cask 'sourcetree'
