@@ -2,6 +2,7 @@
 tap 'homebrew/cask'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/bundle'
+tap 'jesseduffield/lazygit/lazygit'
 
 # Binaries
 brew 'awscli'
