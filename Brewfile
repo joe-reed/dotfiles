@@ -11,9 +11,6 @@ brew 'gh'
 brew 'httpie'
 brew 'hub'
 brew 'mackup'
-brew 'postgresql'
-
-# Development
 brew 'php'
 brew 'php@7.3'
 brew 'php@7.2'
@@ -23,6 +20,8 @@ brew 'nginx'
 brew 'node'
 brew 'redis'
 brew 'yarn'
+brew 'openjdk@11'
+brew 'postgresql'
 
 # Apps
 cask '1password'
